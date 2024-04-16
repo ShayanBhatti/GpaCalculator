@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
 public class GpaCalculator {
     public static void main(String[] args) {
 
+        
         Scanner cal = new Scanner(System.in);
         //declare the new Scanner
         int[] creditHour = { 3, 2, 3, 3, 3, 1, 1 };
